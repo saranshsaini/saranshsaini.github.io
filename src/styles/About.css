@@ -1,0 +1,8 @@
+.about{
+    font-family: var(--ff-text);
+    font-size: 1.5rem;
+}
+.about > h1 {
+  font-family: var(--ff-cursive);
+  font-size: var(--fs-h1);
+}

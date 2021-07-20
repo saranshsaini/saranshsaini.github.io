@@ -1,0 +1,29 @@
+.projects {
+  font-family: var(--ff-text);
+  font-size: 1.5rem;
+}
+.projects > h1 {
+  font-family: var(--ff-cursive);
+  font-size: 4.3rem;
+}
+
+.proj-holder > h2 {
+  font-size: 2rem;
+  line-height: 1;
+  margin: 0;
+}
+
+.proj-holder > hr {
+  margin: 0;
+}
+.ptag {
+  margin: 5px 0;
+}
+
+.bigger {
+  font-size: 1.5rem;
+}
+
+.smaller {
+  font-size: 1.2rem;
+}

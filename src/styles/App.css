@@ -1,0 +1,61 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel&family=Dancing+Script&family=Dosis&family=Tourney:wght@100&display=swap");
+
+html,
+body {
+  height: 100%;
+  box-sizing: border-box;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  background: #43cea2;
+  background: -webkit-linear-gradient(to right, #43cea2, #185a9d);
+  background: linear-gradient(to right, #43cea2, #185a9d);
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1;
+  margin: 1px;
+}
+h3{
+  font-size: 1.4rem;
+}
+a {
+  color: blue;
+  text-decoration: none;
+}
+ul{
+  margin:0;
+  margin-top: 3px;
+  margin-bottom: 30px;
+}
+
+:root {
+  --ff-primary: "Cinzel", serif;
+  --ff-second: "Tourney", cursive;
+
+  --ff-text: "Dosis", sans-serif;
+  --ff-cursive: "Dancing Script", cursive;
+
+  --fw-reg: 300;
+  --fw-bold: 900;
+
+  --clr-light: #fff;
+  --clr-dark: #303030;
+  --clr-accent: #16e0bd;
+
+  --fs-h1: 4.3rem;
+  --fs-h2: 2.25rem;
+  --fs-h3: 1.5rem;
+  --fs-p: 2rem;
+  --fs-body: 1rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}

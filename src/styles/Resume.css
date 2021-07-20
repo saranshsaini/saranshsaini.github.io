@@ -1,0 +1,16 @@
+.resume {
+    font-family: var(--ff-text);
+    font-size: 1.5rem;
+  }
+  .resume > h1 {
+    font-family: var(--ff-cursive);
+    font-size: 4.3rem;
+  }
+  
+  .resume > h2 {
+    font-size: 2rem;
+    line-height: 1;
+    margin: 0;
+  }
+
+  

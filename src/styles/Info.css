@@ -1,0 +1,18 @@
+.info {
+  display: block;
+  padding: 1%;
+  background-color: rgb(245, 245, 220);
+  border-radius: 25px;
+  overflow-y: auto;
+  border-style: solid;
+  height: 600px;
+  border-color: bisque;
+}
+
+
+.info>h1{
+  
+    font-family: var(--ff-text);
+    font-size: 1.5rem;
+
+}

@@ -1,0 +1,32 @@
+
+
+.intro {
+  margin-left: 4%;
+  margin-top: 1%;
+  width: 30%;
+}
+
+.bar-holder > div {
+  height: 10px;
+  margin: 10px 0;
+}
+.bar1 {
+  width: 90%;
+  background: red;
+}
+.bar2 {
+  width: 95%;
+  background: blue;
+}
+.bar3 {
+  width: 100%;
+  background: green;
+}
+.intro > h1 {
+  font-family: var(--ff-primary);
+  font-size: var(--fs-h1);
+}
+.intro > h2 {
+  font-size: var(--fs-h2);
+  font-family: var(--ff-second);
+}
