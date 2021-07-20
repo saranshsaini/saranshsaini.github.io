@@ -1,6 +1,6 @@
 const data = [
   {
-    link: "http://saranshsaini.github.io/",
+    link: "https://github.com/saranshsaini/saranshsaini.github.io",
     title: "This website",
     tech: "React, Framer Motion, CSS",
     pTags: [
