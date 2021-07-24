@@ -1,13 +1,12 @@
 const data = [
   {
-    link: "https://github.com/saranshsaini/saranshsaini.github.io",
+    link: "https://github.com/saranshsaini/saranshsaini.github.io/tree/sitecode",
     title: "This website",
     tech: "React, Framer Motion, CSS",
     pTags: [
-      "Originally, I planned on just using a template from the internet for my personal portfolio.",
-      "Though that route might have possibly resulted in a slightly more professional and pretty site design, it wouldn't have felt like it's mine.",
-      "Using React, Framer Motion for animations, and CSS, I made this site. While there is a lot to improve upon in terms of UI and design, it's a good start to build upon.",
-      "Please contact me with any improvements I can make, and check out the code GitHub!",
+      "Here lies my personal portfolio. It may not be the purdiest, it may not be the fanciest, and it may not be the most responsive, but I'll be darned if it ain't mine.",
+      "While there is a lot to improve upon in terms of UI and design, it's a good start to build upon.",
+      "Please contact me with any improvements I can make, and check out the code on GitHub!",
     ],
   },
   {
