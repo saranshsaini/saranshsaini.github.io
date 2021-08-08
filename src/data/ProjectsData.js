@@ -13,7 +13,7 @@ const data = [
   {
     link: "https://github.com/saranshsaini/saranshsaini.github.io",
     title: "This website",
-    tech: "React, Framer Motion, CSS",
+    tech: "React, Framer Motion",
     pTags: [
       "Here lies my personal portfolio. It may not be the purdiest, it may not be the fanciest, and it may not be the most responsive, but I'll be darned if it ain't mine.",
       "While there is a lot to improve upon in terms of UI and design, it's a good start to build upon.",
