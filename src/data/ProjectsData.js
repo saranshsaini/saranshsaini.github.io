@@ -1,6 +1,17 @@
 const data = [
   {
-    link: "https://github.com/saranshsaini/saranshsaini.github.io/tree/sitecode",
+    link: "https://saranshsaini.github.io/PlayToLearn/",
+    title: "Piano Typer",
+    tech: "React",
+    pTags: [
+      "I've recently gotten into the piano, but it's pretty hard learning the notation and knowing which squiggle corresponds with which key.",
+      "That's why I made this (very simple) piano learning site",
+      "Simply connect a piano to your computer with MIDI, and you can learn piano keys similar to how one might learn to type on a keyboard!",
+      "There is a lot of room to add to this project. Practicing chords, adding virtual keyboard support, among other additional features can make this app even better."
+    ],
+  },
+  {
+    link: "https://github.com/saranshsaini/saranshsaini.github.io",
     title: "This website",
     tech: "React, Framer Motion, CSS",
     pTags: [
