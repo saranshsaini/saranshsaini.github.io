@@ -1,5 +1,5 @@
 export const resumeLink =
-  "https://drive.google.com/file/d/1PPeSuQhBBOWy6hkweedoatWm0Eu0nG8a/view?usp=sharing";
+  "https://drive.google.com/file/d/1G9yFCSt0U3Bcjetw25uNVqtqkQ6H5VKD/view?usp=sharing";
 export const email = {
   email: "saranshs@berkeley.edu",
   subject: "subject=Saransh,%20you%27re%20a%20cool%20guy",
