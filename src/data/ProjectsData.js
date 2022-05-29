@@ -16,7 +16,7 @@ const data = [
     tech: "React, Framer Motion",
     pTags: [
       "Here lies my personal portfolio. It may not be the purdiest, it may not be the fanciest, and it may not be the most responsive, but I'll be darned if it ain't mine.",
-      "While there is a lot to improve upon in terms of UI and design, it's a good start to build upon.",
+      "As I learn more about UI/UX principles, I iteratively come back and edit the layout design.",
       "Please contact me with any improvements I can make, and check out the code on GitHub!",
     ],
   },
@@ -25,7 +25,7 @@ const data = [
     title: "Gitlet",
     tech: "Java, Serialization, Java File System",
     pTags: [
-      "I made a lite version of git version control entirely from scratch in Java.",
+      "I made a lite version of the git version control system entirely from scratch in Java.",
       "The program supports all the basic commands (add, commit, log, etc.) along with pushing, pulling, remotes, branching, and more.",
       "I would be more than happy to share the code with those who ask.",
     ],

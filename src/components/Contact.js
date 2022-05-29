@@ -1,5 +1,5 @@
 import React from "react";
-import { email, linkedin, pigeon } from "../data/miscdata";
+import { email, linkedin, github } from "../data/miscdata";
 import "../styles/Contact.css";
 
 export default function Contact(props) {
@@ -29,8 +29,8 @@ export default function Contact(props) {
           </a>
         </li>
         <li>
-          <a href={pigeon} target="_blank" rel="noreferrer">
-            Message me via carrier pigeon
+          <a href={github} target="_blank" rel="noreferrer">
+            Check out my GitHub profile
           </a>
         </li>
       </ul>

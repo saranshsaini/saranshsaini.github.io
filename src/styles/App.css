@@ -11,7 +11,7 @@ body {
 body {
   background: #43cea2;
   background: -webkit-linear-gradient(to right, #43cea2, #185a9d);
-  background: linear-gradient(to right, #43cea2, #185a9d);
+  background: black;/*#282d2d;/*linear-gradient(to right, #43cea2, #185a9d);*/
 }
 
 h1,

@@ -25,8 +25,10 @@
 .intro > h1 {
   font-family: var(--ff-primary);
   font-size: var(--fs-h1);
+  color: white;
 }
 .intro > h2 {
   font-size: var(--fs-h2);
   font-family: var(--ff-second);
+  color: white;
 }

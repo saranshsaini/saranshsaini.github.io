@@ -17,27 +17,34 @@
   width: 80%;
   align-self: flex-end;
   margin-bottom: 7%;
+  background-color: #282d2d;
+  color:white;
 }
-
+/*
 .about-bar {
-  background-color: green;
+  background-color: #282d2d;
+  color:white;
 }
 
 .experience-bar {
-  background-color: yellow;
+  background-color: #282d2d;
+  color:white;
 }
 .projects-bar {
-  background-color: lightblue;
+  background-color: #282d2d;
+  color:white;
 }
 
 .resume-bar {
-  background-color: orange;
+  background-color: #282d2d;
+  color:white;
 }
 
 .contact-bar {
-  background-color: white;
+  background-color: #282d2d;
+  color:white;
 }
-
+*/
 .info-holder {
   margin-right: auto;
   margin-left: 1%;
