@@ -1,5 +1,15 @@
 const data = [
   {
+    link: "https://github.com/saranshsaini/RustyVault/",
+    title: "RustyVault",
+    tech: "Rust",
+    pTags: [
+      "Wanted to learn Rust, so I made this password manager for your terminal",
+      "Implemented encryption and hashing using AES-GCM and Argon2 to secure files and user data.",
+      "Used TUI and Crossterm to build a GUI allowing for intuitive adding, editing, and managing of passwords.",
+    ],
+  },
+  {
     link: "https://saranshsaini.github.io/PlayToLearn/",
     title: "Piano Typer",
     tech: "React",
@@ -7,7 +17,17 @@ const data = [
       "I've recently gotten into the piano, but it's pretty hard learning the notation and knowing which squiggle corresponds with which key.",
       "That's why I made this (very simple) piano learning site",
       "Simply connect a piano to your computer with MIDI, and you can learn piano keys similar to how one might learn to type on a keyboard!",
-      "There is a lot of room to add to this project. Practicing chords, adding virtual keyboard support, among other additional features can make this app even better."
+      "There is a lot of room to add to this project. Practicing chords, adding virtual keyboard support, among other additional features can make this app even better.",
+    ],
+  },
+  {
+    link: "",
+    title: "PintOS",
+    tech: "C, Operating System Fundamentals",
+    pTags: [
+      "Created an educational operating system, complete with multi-threading, file systems, and the ability to run user programs.",
+      "Implemented syscalls, memory management, and synchronization to create a robust system.",
+      "Augmented team-based work skills by learning how to seamlessly create a large system with teammates.",
     ],
   },
   {
@@ -31,23 +51,12 @@ const data = [
     ],
   },
   {
-    link: "https://sp21.datastructur.es/materials/proj/proj3/proj3",
-    title: "2D Map Generation Game",
-    tech: "Java, Search Trees, Algorithm Design",
-    pTags: [
-      "This project required an understanding of recursive techniques to split the screen into multiple zones that the player could move around in.",
-      "The game world is built by taking a user inputted seed and then using binary space partitioning to make a random world.",
-      "Saving and loading, along with game mechanics like dashing and enemy encounters, were implemented as well.",
-    ],
-  },
-  {
     link: "https://github.com/saranshsaini/MERN_Stack-Places-APP",
     title: "MERN Social Media App",
     tech: "React, MongoDB, Node, Express, APIs",
     pTags: [
       "I made this app while learning about MERN technologies through online courses",
       "Users can log in, and share the locations they have been with others by uploading photos, text, and their location (using the Google Maps API).",
-      
     ],
   },
 ];

@@ -1,10 +1,14 @@
 import React from "react";
 import "../styles/Experience.css";
 import "../styles/Info.css";
-import { nasa, capitalone, qq, neurobat, ieee } from "../data/ExperienceData";
-//import { ieee } from "../data/ExperienceData";
-//import { qq } from "../data/ExperienceData";
-//import { dailycal } from "../data/ExperienceData";
+import {
+  nasa,
+  capitalone,
+  qq,
+  neurobat,
+  ieee,
+  amazon,
+} from "../data/ExperienceData";
 
 export default function Experience(props) {
   return (
@@ -12,10 +16,11 @@ export default function Experience(props) {
       <h1>Experiences</h1>
 
       <br />
+      <ExpItem source={amazon} />
+      <ExpItem source={qq} />
       <ExpItem source={capitalone} />
       <ExpItem source={nasa} />
       <ExpItem source={neurobat} />
-      <ExpItem source={qq} />
       <ExpItem source={ieee} />
     </div>
   );

@@ -16,7 +16,7 @@
   font-size: 1.5rem;
 }
 
-.info > h2,p {
+.info > h2,
+p {
   color: white;
-
 }
